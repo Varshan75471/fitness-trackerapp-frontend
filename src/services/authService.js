@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://fitness-trackerapp-backend-2.onrender.com";
 
 // ✅ Register User
 export const register = async (userData) => {
